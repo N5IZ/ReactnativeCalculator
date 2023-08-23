@@ -8,7 +8,6 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the process with the following:
 
 ```
-> git clone https://github.com/N5IZ/ReactnativeCalculator.git
 > cd CalculatorReactNative
 > npm install
 > npm start
