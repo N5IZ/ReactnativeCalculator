@@ -29,7 +29,7 @@ export default ({ onPress, text, size, theme }) => {
 const styles = StyleSheet.create({
     text: {
         color: "#fff",
-        fontSize: 25
+        fontSize: 266
     },
     textSecondary: {
         color: "#060606"
