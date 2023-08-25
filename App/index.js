@@ -9,7 +9,7 @@ export default function App() {
   const [ prevVal, setPrevVal ] = useState(null);
 
   handleTap = (type, value) => {
-    if(type === "number") {
+    if(type === "numberr") {
         setCurrVal(`${currVal}${value}`);
     }
 
